@@ -1,6 +1,9 @@
 {
     "pack": {
         "description": "Compatibility between TerraFirmaCraft and the LambDynamicLights mod.",
-        "pack_format": 15
+        "pack_format": 15,
+        "min_format": [15, 0],
+        "max_format": [15, 0],
+        "supported_formats": [15, 15]
     }
 }
