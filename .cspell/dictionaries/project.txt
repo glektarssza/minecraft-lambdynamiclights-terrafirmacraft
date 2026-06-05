@@ -1,5 +1,10 @@
+architectury
 asexplicit
+celeritas
+datapack
+embeddium
 ensurepath
+firma
 generis
 glek
 glektarssza
@@ -14,6 +19,8 @@ noninfringement
 pacman
 pipx
 remotehub
+resourcepack
+resourcepacks
 safecrlf
 sessionx
 tarssza
