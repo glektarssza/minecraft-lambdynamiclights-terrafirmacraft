@@ -8,6 +8,7 @@ firma
 generis
 glek
 glektarssza
+goding
 hookspath
 hotfixes
 iregex
@@ -22,6 +23,7 @@ pipx
 remotehub
 resourcepack
 resourcepacks
+ryoamic
 safecrlf
 sessionx
 tarssza
