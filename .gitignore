@@ -43,3 +43,6 @@ ctags
 # Cache #
 ## CSpell ##
 .cspellcache
+
+# Artifacts #
+*.zip
