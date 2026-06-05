@@ -43,7 +43,7 @@ following combinations of mods:
 Other combinations of TerraFirmCraft + addons and LambDynamicLights mods should
 work but your mileage may vary!
 
-Feel free to report any bugs on the [GitHub issue tracker]()!
+Feel free to report any bugs on the [GitHub issue tracker](https://github.com/glektarssza/minecraft-lambdynamiclights-terrafirmacraft/issues)!
 
 ## Installation ##
 
