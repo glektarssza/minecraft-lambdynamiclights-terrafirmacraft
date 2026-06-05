@@ -1,0 +1,24 @@
+{
+    "env": {
+        "gameVersion": "Auto",
+        "permissionLevel": 3,
+        "enableMcdocCaching": false,
+        "feature": {
+            "codeActions": true,
+            "colors": true,
+            "completions": true,
+            "documentHighlighting": true,
+            "documentLinks": true,
+            "foldingRanges": true,
+            "formatting": true,
+            "hover": true,
+            "inlayHint": {},
+            "selectionRanges": true,
+            "semanticColoring": true,
+            "signatures": true
+        }
+    },
+    "format": {},
+    "lint": {},
+    "snippet": {}
+}

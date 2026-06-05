@@ -1,0 +1,5 @@
+{
+    "item": "tfc:metal/lamp/wrought_iron",
+    "luminance": "minecraft:lantern",
+    "water_sensitive": true
+}

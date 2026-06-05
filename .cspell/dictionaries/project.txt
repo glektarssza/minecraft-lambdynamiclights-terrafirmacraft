@@ -12,6 +12,7 @@ hookspath
 hotfixes
 iregex
 mapfile
+mcdoc
 mpre
 netrwhist
 noconfirm

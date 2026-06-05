@@ -1,0 +1,5 @@
+{
+    "item": "tfc:metal/lamp/bismuth_bronze",
+    "luminance": "minecraft:lantern",
+    "water_sensitive": true
+}
