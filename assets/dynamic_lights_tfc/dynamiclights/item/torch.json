@@ -1,5 +1,5 @@
 {
     "item": "tfc:torch",
-    "luminance": "minecraft:torch",
+    "luminance": 14,
     "water_sensitive": true
 }
