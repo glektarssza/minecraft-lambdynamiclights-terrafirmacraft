@@ -1,5 +1,5 @@
 {
     "item": "tfc:metal/lamp/black_steel",
-    "luminance": "minecraft:lantern",
+    "luminance": 15,
     "water_sensitive": true
 }
