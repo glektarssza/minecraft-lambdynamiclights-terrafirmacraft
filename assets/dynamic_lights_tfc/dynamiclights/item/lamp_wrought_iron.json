@@ -1,5 +1,5 @@
 {
     "item": "tfc:metal/lamp/wrought_iron",
     "luminance": 15,
-    "water_sensitive": true
+    "water_sensitive": false
 }
